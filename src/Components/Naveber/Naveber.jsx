@@ -1,8 +1,10 @@
 import React from 'react'
 
 const Naveber = () => {
+  
   return (
-    <div>Naveber</div>
+    <div>
+    </div>
   )
 }
 
