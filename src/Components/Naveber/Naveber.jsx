@@ -33,7 +33,6 @@ const Naveber = () => {
         </div>
       </nav>
       <div 
-      // style={{left:`${reate}`}}
       id='bar'
       className='absolute m-6 ease-in-out duration-200 text-2xl rounded-lg w-[200px] h-[auto] bg-slate-600'>
         
