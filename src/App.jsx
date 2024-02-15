@@ -15,7 +15,9 @@ function App() {
         <Route path='/admin' element />
         <Route path='/login' element />
         <Route path='/register' element />
-        
+        <Route path='/user' element />
+        <Route path='product' element />
+         
       </Routes>
       <Footer/>
     </BrowserRouter>
