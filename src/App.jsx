@@ -11,6 +11,11 @@ function App() {
     <Naveber/>
       <Routes>
         <Route path='/' element={<Home/>}/>
+        <Route path='/cart' element />
+        <Route path='/admin' element />
+        <Route path='/login' element />
+        <Route path='/register' element />
+        
       </Routes>
       <Footer/>
     </BrowserRouter>
