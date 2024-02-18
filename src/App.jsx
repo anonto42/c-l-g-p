@@ -8,17 +8,10 @@ function App() {
 
   return (
     <BrowserRouter>
-    <Naveber/>
-      <Routes>
-        <Route path='/' element={<Home/>}/>
-        <Route path='/cart' element />
-        <Route path='/admin' element />
-        <Route path='/login' element />
-        <Route path='/register' element />
-        <Route path='/user' element />
-        <Route path='product' element />
-         
-      </Routes>
+      <Naveber/>
+        <Routes>
+          <Route path='/' element={<Home/>}/>
+        </Routes>
       <Footer/>
     </BrowserRouter>
   )
